@@ -7,6 +7,8 @@ I have made it by using HTML, CSS and JavaScript.
 
 git clone "https://github.com/purvadixit1/Musify.git"
 
+>Enjoy song album by pasting project link " https://purvadixit1.github.io/Musify/" in your browser.
+
 
 
 
